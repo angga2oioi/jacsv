@@ -1,0 +1,33 @@
+{
+  "name": "jacsv",
+  "version": "0.0.9",
+  "description": "Just Another CSV to XLXS converter",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "bin": {
+    "jacsv": "./bin/index.js"
+  },
+  "engines": {
+    "node": ">=6.17.0"
+  },
+  "keywords": [
+    "csv",
+    "xlsx",
+    "converter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angga2oioi/jacsv.git"
+  },
+  "author": "angga2oioi",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^3.8.2",
+    "jaci": "0.0.4"
+  }
+}
