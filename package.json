@@ -1,6 +1,6 @@
 {
   "name": "jacsv",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Just Another CSV to XLXS converter",
   "main": "index.js",
   "directories": {
