@@ -1,2 +1,2 @@
 # jacsv
-Just Another CSV to XLSX converter
+Convert hasil mutasi rekening bca dari csv ke xlsx yang lebih mudah dibaca
